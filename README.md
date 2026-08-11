@@ -1,126 +1,117 @@
-# 👋 Olá, eu sou **Eduardo Gorayeb**!
+<div align="center">
 
-### 🚀 **Desenvolvedor de Sistemas | Backend & IA Aplicada**
+# Eduardo Gorayeb
 
-**💡 Transformando ideias em sistemas inteligentes**  
-**📍 Localizado em São José do Rio Preto, São Paulo - Brasil**  
-**📧 Contato:** [eduardom.gorayeb@gmail.com](mailto:eduardom.gorayeb@gmail.com)  
-**💼 Disponível para:** Freelance & Projetos Técnicos & Emprego
+### Ciência da Computação | Desenvolvimento de Software | Python & IA
+
+São José do Rio Preto - SP, Brasil
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo_Gorayeb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardogorayeb)
+[![GitHub](https://img.shields.io/badge/GitHub-EduardoGorayeb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EduardoGorayeb)
+[![Email](https://img.shields.io/badge/Email-eduardom.gorayeb%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardom.gorayeb@gmail.com)
+
+</div>
 
 ---
 
-## 🛠️ **Tecnologias & Especialidades**
+## Sobre mim
 
-### **🧠 Inteligência Artificial**
-![Visão Computacional](https://img.shields.io/badge/Visão_Computacional-5C2D91?style=for-the-badge&logo=opencv&logoColor=white)
-![Processamento de Áudio](https://img.shields.io/badge/Processamento_de_Áudio-8E24AA?style=for-the-badge&logo=sonos&logoColor=white)
-![IA Generativa](https://img.shields.io/badge/IA_Generativa-283593?style=for-the-badge&logo=openai&logoColor=white)
-![Pipelines de IA](https://img.shields.io/badge/Pipelines_de_IA-37474F?style=for-the-badge&logo=kubernetes&logoColor=white)
+Estudante de Ciência da Computação e técnico em Desenvolvimento de Sistemas, com conhecimentos em **Python** e desenvolvimento de aplicações web.
 
-### **⚙️ Backend & Arquitetura**
+Durante minha formação e em projetos pessoais, participei do desenvolvimento de sistemas envolvendo integração entre aplicações e inteligência artificial, além de explorar o desenvolvimento Android.
+
+Tenho interesse em aprender novas tecnologias e ampliar meus conhecimentos para além de uma única linguagem ou área. Atualmente busco minha primeira oportunidade profissional para aprender com uma equipe, ganhar experiência e contribuir no desenvolvimento de software.
+
+---
+
+## Tecnologias
+
+### Desenvolvimento
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![APIs REST](https://img.shields.io/badge/APIs_REST-005571?style=for-the-badge&logo=api&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socket.io&logoColor=white)
-
-### **🔧 Ferramentas & DevOps**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Ferramentas e outros conhecimentos
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
-## 🏆 **Projetos em Destaque**
+## Projetos
 
-### **🔍 SignaLive** 
-![Status](https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-4ecdc4?style=for-the-badge)
-![Tecnologias](https://img.shields.io/badge/TECNOLOGIAS-Python|FastAPI|Visão_Computacional-ff6b6b?style=for-the-badge)
+### SignaLive
 
-**Sistema de acessibilidade em tempo real** utilizando visão computacional e processamento de áudio.
+![Status](https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-4ecdc4?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![IA](https://img.shields.io/badge/Inteligência_Artificial-5C2D91?style=flat-square)
 
-> 👨‍💻 **Minha atuação:** Desenvolvimento e treinamento integral da inteligência artificial, atuando de forma independente na concepção do modelo, definição dos pipelines e integração com o backend.
+Plataforma voltada ao **reconhecimento e tradução de sinais de Libras em tempo real**.
 
-**✨ Tecnologias:** Python, FastAPI, Django, Visão Computacional, Processamento de Áudio, WebSockets
+Participo principalmente do desenvolvimento relacionado à inteligência artificial, processamento de dados e integração entre os diferentes serviços da plataforma. O projeto também envolve aplicações web e Android.
 
----
-
-### **🔍 SALA**
-![Status](https://img.shields.io/badge/STATUS-EM_PRODUÇÃO-4ecdc4?style=for-the-badge)
-![Tecnologias](https://img.shields.io/badge/TECNOLOGIAS-Django|IA_Generativa|Métricas_Auto-ff6b6b?style=for-the-badge)
-
-**Plataforma educacional inteligente** com IA para apoio ao aprendizado e análise de desempenho.
-
-> 👨‍💻 **Minha atuação:** Desenvolvimento e integração da IA, definição das lógicas, métricas automáticas e aplicação prática dos modelos.
-
-**✨ Tecnologias:** Python, Django, IA Generativa, Métricas Automáticas, Modelagem de Dados
+**Tecnologias:** Python, Django, FastAPI, WebSockets e visão computacional.
 
 ---
 
-### **🛍️ LuxImperium**
-![Status](https://img.shields.io/badge/STATUS-CONCLUÍDO-4ecdc4?style=for-the-badge)
-![Tipo](https://img.shields.io/badge/TIPO-FREELANCE-ff6b6b?style=for-the-badge)
+### S.A.L.A.
 
-**Site e-commerce** para venda de perfumes com foco em estrutura funcional e entrega prática.
+![Status](https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-4ecdc4?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![IA](https://img.shields.io/badge/Inteligência_Artificial-5C2D91?style=flat-square)
 
-> 💼 **Projeto comercial** desenvolvido como freelancer, focando em usabilidade e conversão.
+Sistema de apoio ao **treino e avaliação de apresentações**.
+
+Participei do desenvolvimento das lógicas responsáveis pela análise dos dados e integração dos resultados com a plataforma web. O sistema trabalha com aspectos como fala, postura e relação da apresentação com o tema proposto.
+
+**Tecnologias:** Python, Django, processamento de dados e inteligência artificial.
 
 ---
 
-## 📚 **Formação Acadêmica**
+## Formação
+
+**Bacharelado em Ciência da Computação**  
+Centro Universitário Internacional - UNINTER  
+2026 - atual
+
+**Técnico em Desenvolvimento de Sistemas**  
+SENAI Antonio Devisate  
+Concluído
+
+---
+
+## GitHub
 
 <div align="center">
 
-| Curso | Instituição | Status |
-|-------|-------------|---------|
-| 🎓 **Técnico em Desenvolvimento de Sistemas** | SENAI | ✅ Concluído |
-| 🎓 **Ciência da Computação** | UNIP | 🚧 Em andamento |
-| 🤖 **Cursos em IA Aplicada** | Variadas plataformas | 📚 Contínuo |
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=EduardoGorayeb&show_icons=true&hide_border=true&locale=pt-br" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoGorayeb&layout=compact&hide_border=true&locale=pt-br" />
 
 </div>
 
 ---
 
-## 🏅 **Habilidades Técnicas**
+## Atualmente
 
-### **🧩 Backend & IA**
-- Arquitetura de sistemas escaláveis
-- Desenvolvimento de APIs REST e em tempo real
-- Modelagem e treinamento de modelos de IA
-- Pipelines de processamento de dados
-- Integração de sistemas complexos
+Tenho buscado aprofundar meus conhecimentos em **desenvolvimento de software, Python, backend e inteligência artificial**, ao mesmo tempo em que exploro outras tecnologias e áreas da computação.
 
-### **🔍 Especialidades em IA**
-- Visão computacional (OpenCV, YOLO, etc.)
-- Processamento de sinais de áudio
-- Modelos generativos e análise preditiva
-- Automação de métricas e análises
-
----
-
-## 📫 **Vamos Conversar!**
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/EMAIL-eduardom.gorayeb@gmail.com-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardom.gorayeb@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-EduardoGorayeb-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EduardoGorayeb)
-
-</div>
-
-**💬 Interessado em:**
-- Colaborações técnicas em projetos de IA
-- Desenvolvimento backend complexo
-- Soluções inovadoras para problemas reais
-- Freelance em projetos desafiadores
+Meu principal objetivo é continuar aprendendo por meio de projetos reais, entender melhor como sistemas são construídos e utilizar tecnologia para resolver problemas reais.
 
 ---
 
 <div align="center">
 
-### **✨ "Código que não apenas funciona, mas transforma"**
+### Obrigado pela visita
 
-**Obrigado pela visita!** Sinta-se à vontade para explorar meus repositórios e entrar em contato!
+Sinta-se à vontade para explorar meus repositórios ou entrar em contato.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=EduardoGorayeb&fontSize=40&fontColor=fff&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Eduardo%20Gorayeb&fontSize=32&fontColor=fff&animation=fadeIn)
 
 </div>
